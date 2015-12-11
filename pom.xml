@@ -39,7 +39,7 @@
 	</dependencies>
 
 	<scm>
-		<connection>scm:git:https://github.com/Nuwan-Walisundara/TestModule.git</connection>
+		<connection>scm:git:https://github.com/Nuwan-Walisundara/security-patch.git</connection>
 		<tag>HEAD</tag>
 	</scm>
 	<build>
