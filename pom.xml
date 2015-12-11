@@ -3,7 +3,7 @@
 	<groupId>org.wso2telco.carbon.security</groupId>
 	<artifactId>security-patch</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.2</version>
 	<name>security-patch</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
@@ -39,7 +39,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/Nuwan-Walisundara/security-patch.git</connection>
-		<tag>HEAD</tag>
+		<tag>v1.0.2</tag>
 	</scm>
 	<build>
 		<plugins>
