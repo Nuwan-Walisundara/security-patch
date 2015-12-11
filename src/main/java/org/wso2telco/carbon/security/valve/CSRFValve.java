@@ -117,6 +117,8 @@ public class CSRFValve extends ValveBase{
 	       if (!allow) {
 	         throw new ServletException("Possible CSRF attack. Refer header : " + refererHeader);
 	       }
+	     }else{
+	    	 throw new ServletException("Possible CSRF attack. missing Refer header " );
 	     }
 	   }
 	}
